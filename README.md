@@ -4,7 +4,7 @@ Timeserver GPS rollover workaround
 
 Python 2.7 and 3.xx
 
-[Alt text](tswa1.jpg)
+![Screenshot](tswa1.jpg)
 
 Dependencies:
 
