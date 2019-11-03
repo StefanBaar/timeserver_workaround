@@ -1,4 +1,4 @@
-# 時刻サーバーのGPSのロールオーバー回避策
+# 時刻サーバーのGPSロールオーバー回避策
 timeserver workaround
 
 Timeserver GPS rollover workaround
